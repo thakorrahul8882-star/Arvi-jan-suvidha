@@ -1,0 +1,6 @@
+{
+  "name": "Jan Seva CSC Portal - ડિજિટલ સેવા કેન્દ્ર",
+  "description": "સંપૂર્ણ CSC ડિજિટલ સેવા પોર્ટલ: ગ્રાહકો માટે ઓનલાઇન અરજી, ટ્રેકિંગ અને VLE એડમિન માટે મેનેજમેન્ટ પેનલ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
